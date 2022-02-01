@@ -1,0 +1,21 @@
+{
+    "name": "mintchoc-modern",
+    "displayName": "Mintchoc modern",
+    "description": "Mintchoc modern color theme.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.63.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Mintchoc modern",
+                "uiTheme": "vs-dark",
+                "path": "./themes/mintchoc-modern-color-theme.json"
+            }
+        ]
+    }
+}
